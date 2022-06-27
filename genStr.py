@@ -25,7 +25,7 @@ async def main():
         await app.send_message(
             "me",
             "**Pyrogram Session String**:\n\n"
-            f"`{await app.export_session_string()}`\n\n**Join Updates Channel @AsmSafone!**"
+            f"`{await app.export_session_string()}`\n\n**Join Updates Channel @meribaj!**"
         )
         print(
             "Done, your Pyrogram session string has been sent to "
