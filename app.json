@@ -1,7 +1,7 @@
 {
-  "name": "Radio Player UserBot (Safone)",
+  "name": "Radio Player",
   "description": "Telegram UserBot to Play Radio in Telegram Voice Chats",
-  "repository": "https://github.com/AsmSafone/RadioPlayer",
+  "repository": "https://github.com/jaabirosman/RadioPlayer",
   "logo": "https://telegra.ph/file/a3755d9cb09f1361e3ac7.jpg",
   "keywords": [
     "radio",
